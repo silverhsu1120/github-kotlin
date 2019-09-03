@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="msg_blank">Please enter a search phrase</string>
+    <string name="msg_empty">No matching results</string>
+    <string name="msg_error">Oops! Unexpected error occurred\nPlease try again later</string>
+</resources>
